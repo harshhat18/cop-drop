@@ -18,8 +18,8 @@ Welcome to Cop-Drop, where sneaker culture meets digital craftsmanship! Dive int
 
    ```bash
    git clone https://github.com/harshhat18/crop-drop.git
-   Open index.html in your preferred web browser.
-   Start browsing and exploring our collection of premium sneakers!
+Open index.html in your preferred web browser.
+Start browsing and exploring our collection of premium sneakers!
 
 
 Designed with ❤️ by Cop-Drop
