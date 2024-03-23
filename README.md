@@ -2,7 +2,7 @@
 
 Welcome to Crop-Drop, where sneaker culture meets digital craftsmanship! Dive into a world of kicks and creps with our meticulously designed static website. Built with HTML, CSS, and JavaScript, SoleCrafters brings you a seamless browsing experience for all your sneaker needs.
 
-![ crop-drop](preview.png)
+![ crop-drop]("C:\Users\hasrh\Pictures\Screenshots\Screenshot 2024-03-24 011254.png")
 
 ## Features ✨
 
