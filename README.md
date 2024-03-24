@@ -23,7 +23,7 @@ Start browsing and exploring our collection of premium sneakers!
 
 
 Designed with ❤️ by Cop-Drop
-[check out the website here]([url](https://harshhat18.github.io/cop-drop/)https://harshhat18.github.io/cop-drop/)
+[check out the website here](https://harshhat18.github.io/cop-drop/)
 
 
 
