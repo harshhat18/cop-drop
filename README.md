@@ -2,7 +2,7 @@
 
 Welcome to Cop-Drop, where sneaker culture meets digital craftsmanship! Dive into a world of kicks and creps with our meticulously designed static website. Built with HTML, CSS, and JavaScript, SoleCrafters brings you a seamless browsing experience for all your sneaker needs.
 
-![Screenshot 2024-03-24 011254](https://github.com/harshhat18/crop-drop/assets/135338937/59bd9f1c-2b05-4528-a24b-5de513ab50eb)
+
 
 ## Features ✨
 
